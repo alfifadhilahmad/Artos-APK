@@ -1,5 +1,5 @@
 # Artos APK
 
-Artos adalah aplikasi pencatatan keuangan Android berbasis Java/XML dan SQLite.
+Artos adalah aplikasi pencatatan keuangan Android
 
 APK dapat diunduh melalui halaman **Releases** pada repository ini.
